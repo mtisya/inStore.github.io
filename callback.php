@@ -1,6 +1,5 @@
 <?php
 
-
 echo '<a href="index.php">Home<br /></a>';
 
 $content = file_get_contents('php://input'); //Receives the JSON Result from safaricom
